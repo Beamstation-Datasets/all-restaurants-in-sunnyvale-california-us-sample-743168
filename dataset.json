@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Complete dataset of all active restaurant listings in Sunnyvale, California with a population of over 155k. Filtered by the Restaurants category group with business profiles, ratings, competitive metrics, and contact details. Refreshed weekly.",
+  "config_name": "All Restaurants in Sunnyvale, California, US",
+  "export_job_id": "d9f6569f-d9bc-4ea5-a143-e635cda0fcf7",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 743168,
+  "location_name": "Sunnyvale",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-sunnyvale-california-us-sample-743168",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/743168/beamstation_743168_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_pct": 10.0,
+  "sample_records": 42,
+  "sample_sha256": "dd14ef5f578474c7603d5c2cac715cea086c010c6b02ac34e77270d95627c65f",
+  "sample_size_bytes": 162564,
+  "total_records": 420,
+  "updated_at": "2026-04-07T12:32:11.345920+00:00"
+}
