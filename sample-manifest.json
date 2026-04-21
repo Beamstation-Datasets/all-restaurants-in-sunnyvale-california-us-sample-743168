@@ -1,12 +1,12 @@
 {
-  "export_job_id": "0f33d677-0190-40e1-8b5b-4603762ef447",
+  "export_job_id": "4aa3e2b5-02ac-4d4d-82b3-69c21b7e6932",
   "id_short": 743168,
-  "published_at": "2026-04-17T20:00:56Z",
+  "published_at": "2026-04-21T19:46:39Z",
   "repo_name": "all-restaurants-in-sunnyvale-california-us-sample-743168",
   "sample_asset_name": "beamstation_743168_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/743168/beamstation_743168_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_records": 41,
-  "sample_sha256": "56bfff2db5f1755cc4b9db14dc8f6d958eb835645cf01174c5635fed746d8ed2",
-  "sample_size_bytes": 167497,
-  "total_records": 414
+  "sample_records": 39,
+  "sample_sha256": "1ec5e874182d5f2113a6bc43e33336793bc7461d0c395df137af186e4a9c9a0a",
+  "sample_size_bytes": 162652,
+  "total_records": 399
 }
